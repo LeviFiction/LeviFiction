@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LeviFiction
+- 👀 I’m interested in ... playing around with dumb ideas.
+- 🌱 I’m currently learning ... basic file manipulation
+- 📫 How to reach me ...
